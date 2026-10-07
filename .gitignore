@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Database & generated artifacts
+standalone.db
+generated_certs/
+output/
+scratch/
+.pytest_cache/
